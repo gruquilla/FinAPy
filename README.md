@@ -5,7 +5,7 @@ Single-stock analysis using Python and machine learning tools (Ollama, LSTM).
 Work in progress - To be published soon.
 
 ## What is FinAPy?
-FinAPY (FINancial Analysis with Python) is a research project using Python that aims to provide a synthetic and yet comprehensive overview of the main characteristics of a company and its stock from simply its ticker.<br />
+FinAPY (FINancial Analysis with PYthon) is a research project using Python that aims to provide a synthetic and yet comprehensive overview of the main characteristics of a company and its stock from simply its ticker.<br />
 The main challenge was to work on a way to process financial data using AI locally, without sending any data to servers on the other side of the globe. Using Ollama and certain Python libraries helped to reach that objective.<br />
 <br />
 The project relies on several libraries, but gets its data using yfinance and pygooglenews mainly. The main features include: <br />
