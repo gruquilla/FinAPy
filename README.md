@@ -2,7 +2,7 @@
 Single-stock analysis using Python and machine learning tools (Ollama, LSTM).
 
 ## Table of content
-// WIP //
+Work in progress - To be published soon.
 
 ## What is FinAPy?
 FinAPY (FINancial Analysis with Python) is a research project using Python that aims to provide a synthetic and yet comprehensive overview of the main characteristics of a company and its stock from simply its ticker.<br />
@@ -21,7 +21,7 @@ The project relies on several libraries, but gets its data using yfinance and py
   * An additional AI analysis (still using Ollama) providing an interpretation of the ratios in link with the industry and the PESTEL environment, and also highlighting aspects left out by the ratios.
 
 ## Video demonstration
-// WIP //
+Work in progress - To be published soon.
 
 ## Quick preview
 Example using the ticker of Netflix (NFLX):
@@ -34,11 +34,11 @@ Example of the Profitability ratio component:
 The same kind of analysis is provided with the different ratio components (assets/ liquidity/ solvency (level of debt + coverage)/ operational ratios).
 
 ## The project in detail
-// WIP //
+Work in progress - To be published soon.
 
 ## Potential practical applications
-As is: // WIP // <br />
-Once refined/ adapted/ modified: // WIP // <br />
+As is: Work in progress - To be published soon. <br />
+Once refined/ adapted/ modified: Work in progress - To be published soon. <br />
 ## Limitations and planned developments
 My work focuses at the moment on improving the following aspects:
 * Improving the sentiment analysis of the news with Finbert, as the accuracy is not always there.
