@@ -28,10 +28,10 @@ Example using the ticker of Netflix (NFLX):
 Example of the market data analysis component:
 ![alt text](https://github.com/gruquilla/FinAPy/blob/main/previewmarket.jpg "Candlestick graph")
 
-Example of the Profitability ratio component:
-![alt text](https://github.com/gruquilla/FinAPy/blob/main/ratio%20demo.jpg "Ratio analysis")
+Example of the Operational ratios component:
+![alt text](https://github.com/gruquilla/FinAPy/blob/main/ratiospreview.jpg "Ratio analysis")
 
-The same kind of analysis is provided with the different ratio components (assets/ liquidity/ solvency (level of debt + coverage)/ operational ratios).
+The same kind of analysis is provided with the different ratio components (Profitability/ assets/ liquidity/ solvency (level of debt + coverage)).
 
 ## The project in detail
 Work in progress - To be published soon.
