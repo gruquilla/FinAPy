@@ -36,7 +36,7 @@ The same kind of analysis is provided with the different ratio components (asset
 ## The project in detail
 // WIP //
 
-## Potential practical applications:
+## Potential practical applications
 As is: // WIP // <br />
 Once refined/ adapted/ modified: // WIP // <br />
 ## Limitations and planned developments
