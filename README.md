@@ -20,9 +20,17 @@ The project relies on several libraries, but gets its data using yfinance and py
   * The calculation and variation of the main financial ratios, in terms of profitability/ assets/ liquidity/ solvency (level of debt + coverage)/ operational ratios.
   * An additional AI analysis (still using Ollama) providing an interpretation of the ratios in link with the industry and the PESTEL environment, and also highlighting aspects left out by the ratios.
 
-## Example sample
+## Video demonstration
+// WIP //
+
+## Quick preview
+Example using the ticker of Netflix (NFLX):
+Example of the market data analysis component:
+
+Example of the Profitability ratio component:
 
 ## The project in detail
+// WIP //
 
 ## Limitations and planned developments
 My work focuses at the moment on improving the following aspects:
@@ -30,3 +38,4 @@ My work focuses at the moment on improving the following aspects:
 * Adding metrics to assess the solidity of the LSTM forecast.
 * Improving the prompting.
 * Converting certain elements/ blocks into a library for educational purposes.
+* Certain providers don't issue the financial statements in the same format as others on Yahoo Finance, which leads to the ratio not being calculated at all in certain rare cases.
