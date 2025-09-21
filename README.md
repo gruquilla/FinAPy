@@ -36,6 +36,9 @@ The same kind of analysis is provided with the different ratio components (asset
 ## The project in detail
 // WIP //
 
+## Potential practical applications:
+As is: // WIP // <br />
+Once refined/ adapted/ modified: // WIP // <br />
 ## Limitations and planned developments
 My work focuses at the moment on improving the following aspects:
 * Improving the sentiment analysis of the news with Finbert, as the accuracy is not always there.
