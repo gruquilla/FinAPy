@@ -17,7 +17,7 @@ The project relies on several libraries, but gets its data using yfinance and py
   * An optional AI analysis (using Ollama and GPT OSS:20B) that provides additional insight and interpretation in only a few lines.
     
 * A ratio-based analysis, computed from the financial statements of the last 3 years:
-  * The calculation and variation of the main financial ratios, in terms of profitability/ assets/ liquidity/ solvency (level of debt + coverage)/ operational ratios.
+  * The calculation and variation of the main financial ratios, in terms of profitability/assets/liquidity/solvency (level of debt + coverage)/ operational ratios.
   * An additional AI analysis (still using Ollama) providing an interpretation of the ratios in link with the industry and the PESTEL environment, and also highlighting aspects left out by the ratios.
 
 ## Video demonstration
@@ -26,8 +26,12 @@ The project relies on several libraries, but gets its data using yfinance and py
 ## Quick preview
 Example using the ticker of Netflix (NFLX):
 Example of the market data analysis component:
+![alt text](https://github.com/gruquilla/FinAPy/blob/main/previewmarket.jpg "Candlestick graph")
 
 Example of the Profitability ratio component:
+![alt text](https://github.com/gruquilla/FinAPy/blob/main/ratio%20demo.jpg "Ratio analysis")
+
+The same kind of analysis is provided with the different ratio components (assets/ liquidity/ solvency (level of debt + coverage)/ operational ratios).
 
 ## The project in detail
 // WIP //
