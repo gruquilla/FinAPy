@@ -45,3 +45,4 @@ My work focuses at the moment on improving the following aspects:
 * Adding metrics to assess the relevancy of the LSTM forecast.
 * Certain providers don't issue the financial statements in the same format as others on Yahoo Finance, which leads to the ratio not being calculated at all in certain rare cases.
 * Converting certain elements/ blocks into a library for educational purposes.
+* I'm planning the integration of elements of this future library to a portfolio analysis project.
