@@ -42,6 +42,7 @@ Once refined/ adapted/ modified: Work in progress - To be published soon. <br />
 ## Limitations and planned developments
 My work focuses at the moment on improving the following aspects:
 * Improving the sentiment analysis of the news with Finbert, as the accuracy is sometimes off when articles talk about several companies.
+* Integrating sector/industry averages of the ratios, and potentially Q1/Q3 to help assess the financial situation of a company within its industry.
 * Adding metrics to assess the relevancy of the LSTM forecast.
 * Certain providers don't issue the financial statements in the same format as others on Yahoo Finance, which leads to the ratio not being calculated at all in certain rare cases.
 * Converting certain elements/ blocks into a library for educational purposes.
