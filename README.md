@@ -1,5 +1,5 @@
 ![alt text](https://github.com/gruquilla/FinAPy/blob/main/FINAPY%20logo.jpg "Logo")
-Single-stock analysis using Python and machine learning tools (Ollama, LSTM).
+Single-stock analysis using Python and machine learning tools (Ollama, LSTM). CC BY-NC-SA.
 
 ## Table of content
 Work in progress - To be published soon.
@@ -46,3 +46,7 @@ My work focuses at the moment on improving the following aspects:
 * Certain providers don't issue the financial statements in the same format as others on Yahoo Finance, which leads to the ratio not being calculated at all in certain rare cases.
 * Converting certain elements/ blocks into a library for educational purposes.
 * I'm planning the integration of elements of this future library to a portfolio analysis project.
+<br />
+<br />
+Code: © G.RUQUILLA - CC BY-NC-SA <br />
+This license enables reusers to distribute, remix, adapt, and build upon the material in any medium or format for noncommercial purposes only, and only so long as attribution is given to the creator. If you remix, adapt, or build upon the material, you must license the modified material under identical terms. Data is fetched from Yahoo Finance through Yfinance and Google RSS feeds through pygooglenews. The information provided is for general informational and educational purposes only and does not constitute investment advice, financial advice, trading advice, or any other form of advice.
