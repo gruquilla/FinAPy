@@ -1,5 +1,9 @@
 ![alt text](https://github.com/gruquilla/FinAPy/blob/main/media/FINAPY%20logo.jpg "Logo")
-Single-stock analysis using Python and machine learning tools (Ollama, LSTM). CC BY-NC-SA.
+Single-stock analysis using Python and machine learning tools (Ollama, LSTM). CC BY-NC-SA.<br />
+<br />
+📘 Access the FinAPy Notebook <br />
+[Open Version 1.1](https://github.com/gruquilla/FinAPy/blob/main/Jupyter%20Notebook%20files/FinAPy%20V1.1%20Jupyter%20Notebook%20Version.ipynb)
+
 
 ## Table of contents
 - [What is FinAPy?](#what-is-finapy)
