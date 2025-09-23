@@ -26,7 +26,7 @@ Work in progress - To be published soon.
 ## Quick preview
 Example using the ticker of Netflix (NFLX):
 Example of the market data analysis component:
-![alt text](https://github.com/gruquilla/FinAPy/blob/main/media/previewmarket.jpg "Candlestick graph")
+![alt text](https://github.com/gruquilla/FinAPy/blob/main/media/previewmarket.jpg "Market data visualisation graph")
 
 Example of the Operational ratios component:
 ![alt text](https://github.com/gruquilla/FinAPy/blob/main/media/ratiospreview.jpg "Ratio analysis")
