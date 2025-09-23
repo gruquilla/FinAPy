@@ -1,4 +1,4 @@
-![alt text](https://github.com/gruquilla/FinAPy/blob/main/FINAPY%20logo.jpg "Logo")
+![alt text](https://github.com/gruquilla/FinAPy/blob/main/media/FINAPY%20logo.jpg "Logo")
 Single-stock analysis using Python and machine learning tools (Ollama, LSTM). CC BY-NC-SA.
 
 ## Table of content
@@ -26,10 +26,10 @@ Work in progress - To be published soon.
 ## Quick preview
 Example using the ticker of Netflix (NFLX):
 Example of the market data analysis component:
-![alt text](https://github.com/gruquilla/FinAPy/blob/main/previewmarket.jpg "Candlestick graph")
+![alt text](https://github.com/gruquilla/FinAPy/blob/main/media/previewmarket.jpg "Candlestick graph")
 
 Example of the Operational ratios component:
-![alt text](https://github.com/gruquilla/FinAPy/blob/main/ratiospreview.jpg "Ratio analysis")
+![alt text](https://github.com/gruquilla/FinAPy/blob/main/media/ratiospreview.jpg "Ratio analysis")
 
 The same kind of analysis is provided with the different ratio components (Profitability/ assets/ liquidity/ solvency (level of debt + coverage)).
 
