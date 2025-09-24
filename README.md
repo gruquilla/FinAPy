@@ -55,7 +55,7 @@ As is: For educational and research purposes only:
   * ... <br />
 
 Once refined/ adapted/ modified, it might have the potential to implement:
-  * In-house data analysis of financial information with a high level of confidentiality (the advantage of using Ollama locally). Main requirements: commercial use compatible API for financial data and news/ hardware to run Ollama.
+  * In-house data analysis of financial information with a high level of confidentiality (the advantage of using Ollama locally). Main requirements: usage adpated APIs for financial data and news/ hardware to run Ollama.
   * Qualitative analysis integration, with the graphical visualisation of news and their impact over time.
   * Weak signal additional detection layer with the AI analysis. It is not as reliable as a real experienced analyst, but can sometimes highlight things to deepen one's analysis.
   *  ... <br />
