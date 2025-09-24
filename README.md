@@ -9,11 +9,11 @@ Single-stock analysis using Python and machine learning tools (Ollama, LSTM). CC
 <br />
 ## Table of contents
 - [What is FinAPy?](#what-is-finapy)
-- [Video Demonstration](#video-demonstration)
-- [Quick Preview](#quick-preview)
-- [The Project in Detail](#the-project-in-detail)
-- [Potential Practical Applications](#potential-practical-applications)
-- [Limitations and Planned Developments](#limitations-and-planned-developments)
+- [Video demonstration](#video-demonstration)
+- [Quick preview](#quick-preview)
+- [The project in detail](#the-project-in-detail)
+- [Potential practical applications](#potential-practical-applications)
+- [Limitations and planned developments](#limitations-and-planned-developments)
   
 ## What is FinAPy?
 FinAPY (FINancial Analysis with PYthon) is a research project using Python that aims to provide a synthetic and yet comprehensive overview of the main characteristics of a company and its stock from simply its ticker.<br />
@@ -48,8 +48,16 @@ The same kind of analysis is provided with the different ratio components (Profi
 Work in progress - To be published soon.
 
 ## Potential practical applications
-As is: Work in progress - To be published soon. <br />
-Once refined/ adapted/ modified: Work in progress - To be published soon. <br />
+As is: For educational and research purposes only:
+  * Visualisation of ratios and metrics of any stock for students, researchers,...
+  * Financial ratio visualisation and analysis (informative only).
+  * LSTM forecast preview
+  * ... <br />
+Once refined/ adapted/ modified, it might have the potential to implement:
+  * In-house data analysis of financial information with a high level of confidentiality (the advantage of using Ollama locally). Main requirements: commercial use compatible API for financial data and news/ hardware to run Ollama.
+  * Qualitative analysis integration, with the graphical visualisation of news and their impact over time.
+  * Weak signal additional detection layer with the AI analysis. It is not as reliable as a real experienced analyst, but can sometimes highlight things to deepen one's analysis.
+  *  ... <br />
 ## Limitations and planned developments
 My work focuses at the moment on improving the following aspects:
 * Improving the sentiment analysis of the news with Finbert, as the accuracy is sometimes off when articles talk about several companies.
