@@ -50,7 +50,7 @@ Work in progress - To be published soon.
 ## Potential practical applications
 As is: For educational and research purposes only:
   * Visualisation of ratios and metrics of any stock for students, researchers,...
-  * CFA program candidates looking to visualise real-life cases ratios and data seen in the books.
+  * CFA program candidates looking to visualise real-life cases ratios and data as learnt from the curriculum (skewness, kurtosis,... and other theoretical concepts professional models don't always explicitly show).
   * Financial ratio visualisation and analysis (informative only).
   * LSTM forecast preview
   * ... <br />
