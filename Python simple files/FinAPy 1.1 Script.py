@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[12]:
-
-
 #Developed with Python 3.13
 #Other requirements (requirements.txt file to be released soon)
 #pandas>=1.5.0
@@ -979,10 +976,3 @@ print(cashflow.to_markdown())
 ## Credits ##------------------------------------------------------------------
 print(boxen("Code: © G.RUQUILLA - CC BY-NC-SA"))
 print("This license enables reusers to distribute, remix, adapt, and build upon the material in any medium or format for noncommercial purposes only, and only so long as attribution is given to the creator. If you remix, adapt, or build upon the material, you must license the modified material under identical terms. Data is fetched from Yahoo Finance through Yfinance and Google RSS feeds through pygooglenews. The information provided is for general informational and educational purposes only and does not constitute investment advice, financial advice, trading advice, or any other form of advice.")
-
-
-# In[ ]:
-
-
-
-
