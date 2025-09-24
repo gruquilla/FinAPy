@@ -45,7 +45,24 @@ Example of the Operational ratios component:
 The same kind of analysis is provided with the different ratio components (Profitability/ assets/ liquidity/ solvency (level of debt + coverage)).
 
 ## The project in detail
-Work in progress - To be published soon.
+Here is how FinAPy works:
+* **Prologue: Ticker input collection and essential functions and data:** <br />
+  _In this part, the program gets in input a ticker from the user, and asks wether or not he wants to enable the AI analysis. Then, it generates a short summary about the company fetching information from Yahoo Finance, so the user has something to read while the next step proceeds. It also fetches the main financial metrics and computes additional ones._ <br />
+* **Step 1: Events and news fetching:** <br />
+  _This part fetches stock events from Yahoo Finance and news from Google RSS feed. It also generates a sentiment analysis about the articles fetched using FinBERT._ <br />
+* **Step 2: Forecast using Machine Learning LSTM:**  <br />
+  _This part creates a baseline scenario from a LSTM forecast. The forecast covers 60 days and is trained from 100 last values of close/ high/low prices. It is a quantiative model only. An optimistic and pessimistic scenario are then created by tweaking the main baseline to give a window of prediction. They do not integrate macroeconomic factors, specific metric variations nor Monte Carlo simulations for the moment._ <br />
+* **Step 3: Market data restitution:** <br />
+  _This part is dedicated to restitute graphically the previously computed data. It also computes CFA classical metrics (histogram of returns, skewness, kurtosis) and their explanation. The part concludes with an Ollama AI commentary of the analysis._ <br />
+* **Step 4: Financial statement analysis:** <br />
+  _This part is dedicated to the generation of the main ratios from the financial statements of the last 3 years of the company. Each part concludes with an Ollama AI commentary on the ratios. The analysis includes an overview of the variation, and highlights in color wether the change is positive or negative. Each ratio is commented so you can understand what they represent/ how they are calculated. The ratios include:_ <br />
+    * **Profitability ratios:** Profit margin, ROA, ROCE, ROE,...
+    * **Asset related ratios:** Asset turnover, working capital.
+    * **Liquidity ratios:** Current ratio, quick ratio, cash ratio.
+    * **Solvency ratios:** debt to assets, debt to capital, financial leverage, coverage ratios,...
+    * **Operational ratios (cashflow related):** CFI/ CFF/ CFO ratios, cash return on assets,
+* **Appendix: Financial statements:** <br />
+  _A summary of the financial statements scaled for better readability in case you want to push the manual analysis further._ <br />
 
 ## Potential practical applications
 As is: For educational and research purposes only:
