@@ -79,6 +79,7 @@ Once refined/ adapted/ modified, it might have the potential to implement:
   *  ... <br />
 ## Limitations and planned developments
 My work focuses at the moment on improving the following aspects:
+* Adding bankrupcy scores (Altman Z-score/ Ohlson O-score/...) - Almost ready, to be released in version 1.2.
 * Improving the sentiment analysis of the news with Finbert, as the accuracy is sometimes off when articles talk about several companies.
 * Integrating sector/industry averages of the ratios, and potentially Q1/Q3 to help assess the financial situation of a company within its industry.
 * Adding metrics to assess the relevancy of the LSTM forecast.
