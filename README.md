@@ -1,5 +1,5 @@
 ![alt text](https://github.com/gruquilla/FinAPy/blob/main/media/FINAPY%20logo.jpg "Logo")
-Single-stock analysis using Python and local machine learning and AI tools (Ollama, LSTM). CC BY-NC-SA.<br />
+Single-stock analysis using Python and local machine learning/ AI tools (Ollama, LSTM). CC BY-NC-SA.<br />
 <br />
 📘 Access the FinAPy Notebook: <br />
 [Open Version 1.1](https://github.com/gruquilla/FinAPy/blob/main/Jupyter%20Notebook%20files/FinAPy%20V1.1%20Jupyter%20Notebook%20Version.ipynb)
