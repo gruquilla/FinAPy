@@ -58,7 +58,8 @@ Here is how FinAPy works:
     * **Asset related ratios:** Asset turnover, working capital.
     * **Liquidity ratios:** Current ratio, quick ratio, cash ratio.
     * **Solvency ratios:** debt to assets, debt to capital, financial leverage, coverage ratios,...
-    * **Operational ratios (cashflow related):** CFI/ CFF/ CFO ratios, cash return on assets,... <br /> <br />
+    * **Operational ratios (cashflow related):** CFI/ CFF/ CFO ratios, cash return on assets,... 
+    * **Bankrupcy and financial health scores**: Altman Z-score/ Ohlson O-score.<br /> <br />
 * **Appendix: Financial statements:** <br />
   _A summary of the financial statements scaled for better readability in case you want to push the manual analysis further._ <br /> <br />
 
@@ -71,19 +72,17 @@ As is: For educational and research purposes only:
   * ... <br />
 
 Once refined/ adapted/ modified, it might have the potential to implement:
-  * In-house data analysis of financial information with a high level of confidentiality (the advantage of using Ollama locally). Main requirements: usage adpated APIs for financial data and news/ hardware to run Ollama.
+  * In-house data analysis of financial information with a high level of confidentiality (the advantage of using Ollama locally). Main requirements: usage-adpated APIs for financial data and news/ hardware to run Ollama.
   * Qualitative analysis integration, with the graphical visualisation of news and their impact over time.
   * Weak signal additional detection layer with the AI analysis. It is not as reliable as a real human experienced analyst, but can sometimes highlight aspects to help deepen one's analysis.
   *  ... <br />
 ## Limitations and planned developments
 My work focuses at the moment on improving the following aspects:
-* Adding bankrupcy scores (Altman Z-score/ Ohlson O-score/...) - Almost ready, to be released in version 1.2.
 * Improving the sentiment analysis of the news with Finbert, as the accuracy is sometimes off when articles talk about several companies.
 * Integrating sector/industry averages of the ratios, and potentially Q1/Q3 to help assess the financial situation of a company within its industry.
 * Adding metrics to assess the relevancy of the LSTM forecast.
 * Certain providers don't issue the financial statements in the same format as others on Yahoo Finance, which leads to the ratio not being calculated at all in certain rare cases.
-* Converting certain elements/ blocks into a library for educational purposes.
-* I'm planning the integration of elements of this future library to a portfolio analysis project.
+* I'm planning the integration of elements of this script to a portfolio analysis project with multi-factor optimisation.
 <br />
 <br />
 Code: © G.RUQUILLA - CC BY-NC-SA <br />
