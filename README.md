@@ -2,7 +2,7 @@
 Single-stock analysis using Python and local machine learning/ AI tools (Ollama, LSTM). CC BY-NC-SA.<br />
 <br />
 📘 Access the FinAPy Notebook: <br />
-[Open Version 1.2](https://github.com/gruquilla/FinAPy/blob/main/Jupyter%20Notebook%20files/FinAPy%20V1.1%20Jupyter%20Notebook%20Version.ipynb)
+[Open Version 1.2](https://github.com/gruquilla/FinAPy/blob/main/Jupyter%20Notebook%20files/FinAPy%20V1.1%20Jupyter%20Notebook%20Version.ipynb) <br />
 [Open Version 1.1](https://github.com/gruquilla/FinAPy/blob/main/Jupyter%20Notebook%20files/FinAPy%20V1.1%20Jupyter%20Notebook%20Version.ipynb)
 <br />
 
