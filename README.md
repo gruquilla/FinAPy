@@ -4,9 +4,7 @@ Single-stock analysis using Python and local machine learning/ AI tools (Ollama,
 📘 Access the FinAPy Notebook: <br />
 [Open Version 1.1](https://github.com/gruquilla/FinAPy/blob/main/Jupyter%20Notebook%20files/FinAPy%20V1.1%20Jupyter%20Notebook%20Version.ipynb)
 <br />
-📄 Access the .py script directly: <br />
-[Open Version 1.1](https://github.com/gruquilla/FinAPy/blob/main/Python%20simple%20files/FinAPy%201.1%20Script.py)
-<br />
+
 ## Table of contents
 - [What is FinAPy?](#what-is-finapy)
 - [Video demonstration](#video-demonstration)
