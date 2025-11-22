@@ -40,7 +40,7 @@ The project relies on several libraries, but gets its data using yfinance and py
 - Step 1: Download the latest notebook.
 - Step 2: install the libraries required (listed on the requirements.txt file at the top of this README)
 - Step 3: Download Ollama (Link at the top of the Readme)
-- Step 4: Install GPT OSS 20 B on Ollama: Open Ollama, select as "model" "GPT OSS 2O-B" and send a random prompt to start downloading the model
+- Step 4: Install gpt-oss-20b on Ollama: Open Ollama, select as "model" "gpt-oss-20b" and send a random prompt to start downloading the model
 - Step 5: Open the notebook in Python (keep Ollama open on the side) and run the script.
 
 ## Video demonstration
