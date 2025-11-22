@@ -10,6 +10,8 @@ Check requirements: <br />
 <br />
 [Download Ollama to have access to the local LLM features](https://ollama.com/download)
 <br />
+Information: Ollama and the local LLM features require a discrete GPU to run properly, with at least 8GB of VRAM. Your computer should also have at least 16GB of RAM. If you are below these specifications, you can still run the script but without these AI features.
+<br />
 
 ## Table of contents
 - [What is FinAPy?](#what-is-finapy)
