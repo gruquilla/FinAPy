@@ -13,6 +13,7 @@ Check requirements: <br />
 
 ## Table of contents
 - [What is FinAPy?](#what-is-finapy)
+- [How to run the project?](#how-to-run-the-project?)
 - [Video demonstration](#video-demonstration)
 - [Quick preview](#quick-preview)
 - [The project in detail](#the-project-in-detail)
@@ -34,6 +35,13 @@ The project relies on several libraries, but gets its data using yfinance and py
 * A ratio-based analysis, computed from the financial statements of the last 3 years:
   * The calculation and variation of the main financial ratios, in terms of profitability/assets/liquidity/solvency (level of debt + coverage)/ operational ratios.
   * An additional AI analysis (still using Ollama) providing an interpretation of the ratios in link with the industry and the PESTEL environment, and also highlighting aspects left out by the ratios.
+
+## How to run the project?
+- Step 1: Download the latest notebook.
+- Step 2: install the libraries required (listed on the requirements.txt file at the top of this README)
+- Step 3: Download Ollama (Link at the top of the Readme)
+- Step 4: Install GPT OSS 20 B on Ollama: Open Ollama, select as "model" "GPT OSS 2O-B" and send a random prompt to start downloading the model
+- Step 5: Open the notebook in Python (keep Ollama open on the side) and run the script.
 
 ## Video demonstration
 Work in progress - To be published soon.
