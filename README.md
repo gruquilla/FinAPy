@@ -8,6 +8,8 @@ Single-stock analysis using Python and local machine learning/ AI tools (Ollama,
 Check requirements: <br />
 [requirements.txt](https://github.com/gruquilla/FinAPy/blob/main/requirements.txt)
 <br />
+[Download Ollama to have access to the local LLM features](https://ollama.com/download)
+<br />
 
 ## Table of contents
 - [What is FinAPy?](#what-is-finapy)
