@@ -47,7 +47,7 @@ The project relies on several libraries, but gets its data using yfinance and py
 - Step 5: Open the notebook in Python (keep Ollama open on the side) and run the script.
 
 ## Video demonstration
-Work in progress - To be published soon.
+V1.4. Demo:
 
 ## Quick preview
 Example using the ticker of Netflix (NFLX):
